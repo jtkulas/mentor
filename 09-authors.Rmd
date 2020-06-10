@@ -1,0 +1,17 @@
+# About the Authors {#authors}
+
+Presented alphabetically:
+
+
+```{r authors, echo=FALSE}
+
+authors <- read.csv("authors.csv")
+kable(authors, col.names=NULL)
+
+```
+
+![Image 1](Office1.png){width=35%}![Image 2](Office2.png){width=30%}![Image3](Office3.png){width=30%}
+
+![Image 4](Office4.png){width=25%}![Image 5](Office5.png){width=45%}![Image6](Office6.png){width=28%}
+
+![Image 7](Office7.png){width=25%}![Image 8](Office8.png){width=35%}

@@ -1,0 +1,21 @@
+`r if (knitr::is_html_output()) '
+# References {-}
+'`
+
+1. Students are more likely to persist and graduate in settings that provide academic, social, and personal support. Support may be provided in structured forms such as in summer bridge programs [and] mentor programs. [@tinto_promoting_2003] 
+
+2. After one year of mentoring by faculty, students with mentors have higher GPAs and are more likely to stay in college compared to students who do not have mentors. [@campbell_faculty/student_1997]
+
+3. Mentoring increased students' GPA, mentored students failed fewer courses, and mentored students were much more likely to be in good academic standing after one year of college than non-mentored students (88.5% vs. 57.1%). [@salinitri_effects_2005]
+
+4. Mentored first year students are significantly more likely to return to college for a second year. [@terenzini_students_1996]
+
+5. Having a mentor in college helps students with identity formation, coping skills, stress reduction, and persistence to graduation. [@bordes_mentoring_2005]
+ 
+6. Mentored minority college students are twice as likely to persist as non-mentored minority students. They also have higher GPAs than non---mentored students. [@crisp_mentoring_2009]
+
+7. Formal and informal mentoring programs are conducive to the transition, retention, and success of minority students in higher education. • Students who participate are much more satisfied with their college experience than those who did not participate in mentoring programs. • Establishing multiple levels of mentoring programs------faculty, peers, staff, and administrators------is important in providing success mechanisms for minority students. [@pope_community_2002]
+
+8. Having a mentor in college helps students with identity formation, coping skills, stress reduction, and persistence to graduation. [@bordes_mentoring_2005]
+
+

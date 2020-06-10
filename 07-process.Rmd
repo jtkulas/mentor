@@ -1,0 +1,161 @@
+
+# Program Roll-Out {#procedure}
+
+This page primarily serves as a procedural overview, so future Eagle I.O cohorts can implement and manage the Mentorship program.
+
+Procedurally, Eagle I.O'ers:
+
+1) Guage interest and availability via administering a  [survey](https://survey.az1.qualtrics.com/jfe/form/SV_1TFZ0AIYBpsyh6Z) sent by the program director in July
+    +  Several follow-up attempts are made during the summer 
+    + Template documents:^[Note these documents are only available to individuals who have an e-mail address with the "montclair.edu" domain]  
+        * [To Second Year Mentors](https://drive.google.com/open?id=1oDPE6IKPpk-vFezMzAU6uGP9HiTDfH4DSmJT1TQdXYU)  
+        * [To First Year Mentees](https://drive.google.com/open?id=1BWLyBbBIcMEBeRxTNhBaLzbWkEPXThcO44qSh4HwTpw)  
+        * [First Two Events](https://docs.google.com/document/d/1o_W0KReXqGGoR6jn1zabX6syhJ2sNjMZH8RPBwtfbnI/edit?usp=sharing)
+
+2) Eagle IO consultants match interested mentors and mentees
+    + This is done prior to the annual [baseball game](http://njjackals.pointstreaksites.com/view/njjackals/home-page-657/) event
+3) Matches are introduced at (or before) the baseball game and discuss future events (see Chapter \@ref(timeline)) 
+4) The program is monitored periodically (see Chapter \@ref(Eagle) "Eagle I.O Responsibilities")
+
+## Responsibility Calendar (Fall 2019) {#fall19}
+
+```{r Fall2019, echo=FALSE, warning=FALSE}
+
+## https://www.rdocumentation.org/packages/TeachingDemos/versions/2.10/topics/cal
+
+library(TeachingDemos)
+# cal(2019)                                           ## Yearly calendars
+# cal(2020)
+
+## Colors in 8 digit hex: https://www.quackit.com/css/color/values/css_hex_color_notation_8_digits.cfm
+
+setday <- cal(8,2019)                               ## August events
+setday(29)
+text(0.5,0.5, "Jackal's\nGame")
+rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+
+setday <- cal(9,2019)                               ## September
+setday(2)
+text(0.5,0.5, "SAM")
+rect(-0.04,-0.04,1.04,1.04, col="#4600B433")
+
+setday(9)
+text(0.5,0.5, "KRISTINA")
+rect(-0.04,-0.04,1.04,1.04, col="#4600B433")
+
+setday(16)
+text(0.5,0.5, "TAYLOR")
+rect(-0.04,-0.04,1.04,1.04, col="#4600B433")
+
+setday(23)
+text(0.5,0.5, "RENATA")
+rect(-0.04,-0.04,1.04,1.04, col="#4600B433")
+
+setday(30)
+text(0.5,0.5, "DANIELLE")
+rect(-0.04,-0.04,1.04,1.04, col="#4600B433")
+
+setday(4)
+text(0.5,0.5, "First Day\nof Class")
+
+setday(6)
+text(0.5,0.5, "Orientation")
+rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+
+setday(27)
+text(0.5,0.5, "Mentor and\nMentee\nMeet Up")
+rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+
+setday <- cal(10,2019)                               ## October
+
+setday(7)
+text(0.5,0.5, "NISHI")
+rect(-0.04,-0.04,1.04,1.04, col="#4600B433")
+
+setday(14)
+text(0.5,0.5, "DEHLIA")
+rect(-0.04,-0.04,1.04,1.04, col="#4600B433")
+
+setday(28)
+text(0.5,0.5, "DANIELLE")
+rect(-0.04,-0.04,1.04,1.04, col="#4600B433")
+
+setday(21)
+text(0.5,0.5, "ELESE\n& LinkedIN")
+rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
+
+setday(10)
+text(0.5,0.5, "Metro")
+rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+
+setday <- cal(11,2019)                               ## November
+
+setday(4)
+text(0.5,0.5, "ELESE")
+rect(-0.04,-0.04,1.04,1.04, col="#4600B433")
+
+setday(11)
+text(0.5,0.5, "DEHLIA")
+rect(-0.04,-0.04,1.04,1.04, col="#4600B433")
+
+setday(18)
+text(0.5,0.5, "RENATA")
+rect(-0.04,-0.04,1.04,1.04, col="#4600B433")
+
+setday(25)
+text(0.5,0.5, "TAYOR\n& Plentiful\nPotluck")
+rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
+
+setday(14)
+text(0.5,0.5, "Metro")
+rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+
+setday(8)
+text(0.5,0.5, "Double\nDining\nDate")
+rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+
+setday(28)
+text(0.5,0.5, "Thanksgiving\nDay")
+
+
+setday <- cal(12,2019)                               ## December
+
+setday(2)
+text(0.5,0.5, "KRISTINA")
+rect(-0.04,-0.04,1.04,1.04, col="#4600B433")
+
+setday(16)
+text(0.5,0.5, "NISHI")
+rect(-0.04,-0.04,1.04,1.04, col="#4600B433")
+
+setday(9)
+text(0.5,0.5, "SAM\n& Gear up\nfor Finals")
+rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
+
+setday(18)
+text(0.5,0.5, "Senior\nSoiree")
+rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+
+setday(13)
+text(0.5,0.5, "Metro")
+rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+
+setday(12)
+text(0.5,0.5, "Last Day\nof Classes")
+
+setday(19)
+text(0.5,0.5, "End of\nthe Semester")
+
+```
+
+## Responsibility Calendar (Spring 2019) {#spring20}
+
+```{r Spring2020, echo=FALSE, warning=FALSE}
+
+cal(1,2020)
+cal(2,2020)
+cal(3,2020)
+cal(4,2020)
+cal(5,2020)
+
+```

@@ -1,0 +1,18 @@
+# Planned Events Calendar {#timeline}
+
+## 2019-2020 Academic Year
+
+```{r echo=FALSE, warning=FALSE, results='asis', message=FALSE}
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+
+events <- read.csv("events1920.csv")
+
+kable(events)
+
+# events %>%
+#  kable() %>%
+#  kable_styling(fixed_thead = T)
+
+```

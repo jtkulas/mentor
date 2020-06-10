@@ -1,0 +1,10 @@
+# Establish the formal elements of the program  
+
+1) Participant trainings  
+2) Progress tracking (<span style="color:red">[we should talk about how we are gonna do this!]</span>)[^elese]
+3) Communication Methods
+4) Pairing process
+5) Orientation (introduce mentor program to new cohort)
+
+
+[^elese]: Maybe we can do like a mid semester survey to the mentees just to get a general idea of how they are doing and if the program is beneficial for them. Do one at the end of the year too? See if they would recommend it to other students etc.

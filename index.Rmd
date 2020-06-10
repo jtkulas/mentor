@@ -1,0 +1,24 @@
+--- 
+title: "MSU I-O Student Mentorship Program User Manual"
+author: "Eagle I-O"
+date: "Most recent update `r Sys.Date()`"
+site: bookdown::bookdown_site
+bookdown::gitbook:
+  config:
+    toc: true
+documentclass: book
+classoption: openany
+cover-image: "images/cover.png"
+bibliography: [book.bib, mentor.bib, packages.bib]
+link-citations: no
+toc-depth: 1
+description: "This is a Users Manual for the Montclair State University I-O Psychology student mentorship program. The intended users are: 1) mentors, 2) protege's, 3) Eagle I-O consultants, and 4) MSU I-O program faculty members."
+---
+# Homepage {-#Homepage}
+
+<center>
+![](images/cover.png)
+</center>  
+
+
+This manual was written in [*Bookdown*](https://bookdown.org/) using the [*GitBook*](https://bookdown.org/yihui/bookdown/html.html) style.
