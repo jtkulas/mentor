@@ -3,15 +3,15 @@
 
 ## History & Definition
 
-The meaning of the word “Mentor” has evolved to describe a person that facilitates personal and professional growth in an individual by sharing knowledge and insight that have been learned through the years.  Mentoring is a relationship.  In short, mentoring is a relationship between two individuals of different levels of experience, one senior and one junior in experience, that focuses on advancing professional and personal development.  Mentoring is about information sharing and learning through and with another person.  From Professor Dumbledore and Harry Potter to Socrates and Plato to Obi-Wan Kenobi and Luke Skywalker, it is clear mentoring relationships come in all shapes and sizes.  Because of individual differences no two mentoring relationships are alike, but must all be based on mutual trust, respect and integrity.   
+The meaning of the word “Mentor” has evolved to describe a person that facilitates personal and professional growth in an individual by sharing knowledge and insight that have been learned through the years.  Mentoring is a relationship.  In short, mentoring is a relationship between two individuals of different levels of experience, one senior and one junior in experience, that focuses on advancing professional and personal development.  Mentoring is about information sharing and learning through and with another person.  From Professor Dumbledore and Harry Potter to Socrates and Plato to Obi-Wan Kenobi and Luke Skywalker, it is clear mentoring relationships come in all shapes and sizes. Individual differences make no two mentoring relationships alike, but are all based on mutual trust, respect, and integrity.   
 
 ## Background
 
-The Montclair State University Industrial and Organizational Psychology Graduate Program is proud to offer a Student Mentor Program for students in their first year of graduate school. Incoming students are matched with a second-year mentor who can provide extracurricular support and share first-hand knowledge about the I-O profession. 
+The Montclair State University Industrial and Organizational Psychology Graduate Program is proud to offer a Student Mentor Program for students in their first year of graduate school. Incoming students are matched with a mentor who can provide extracurricular support and share first-hand knowledge about the I.O profession. Incoming Masters students will be matched with either a returning Master's or Ph.D. student, and incoming Ph.D. students will only be paired with a returning Ph.D. stduent. Mentor and mentee pairings are then made based upon mutual interests in I.O psychology.
 
 ## Mission Statement
 
-Our mentor program is dedicated to creating an environment that fosters growth, development and engagement of first year I-O students to become successful academically, professionally, and socially during graduate school. 
+Our mentor program is dedicated to creating an environment that fosters growth, development, and engagement of first year I.O students to become successful academically, professionally, and socially during graduate school. 
 
 
 ```{r eval=FALSE, echo=FALSE}

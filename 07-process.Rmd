@@ -3,18 +3,18 @@
 
 This page primarily serves as a procedural overview, so future Eagle I.O cohorts can implement and manage the Mentorship program.
 
-Procedurally, Eagle I.O'ers:
+Procedurally, Eagle I.O members:
 
 1) Guage interest and availability via administering a  [survey](https://survey.az1.qualtrics.com/jfe/form/SV_1TFZ0AIYBpsyh6Z) sent by the program director in July
     +  Several follow-up attempts are made during the summer 
     + Template documents:^[Note these documents are only available to individuals who have an e-mail address with the "montclair.edu" domain]  
-        * [To Second Year Mentors](https://drive.google.com/open?id=1oDPE6IKPpk-vFezMzAU6uGP9HiTDfH4DSmJT1TQdXYU)  
+        * [To Mentors](https://drive.google.com/open?id=1oDPE6IKPpk-vFezMzAU6uGP9HiTDfH4DSmJT1TQdXYU)  
         * [To First Year Mentees](https://drive.google.com/open?id=1BWLyBbBIcMEBeRxTNhBaLzbWkEPXThcO44qSh4HwTpw)  
         * [First Two Events](https://docs.google.com/document/d/1o_W0KReXqGGoR6jn1zabX6syhJ2sNjMZH8RPBwtfbnI/edit?usp=sharing)
 
-2) Eagle IO consultants match interested mentors and mentees
-    + This is done prior to the annual [baseball game](http://njjackals.pointstreaksites.com/view/njjackals/home-page-657/) event
-3) Matches are introduced at (or before) the baseball game and discuss future events (see Chapter \@ref(timeline)) 
+2) Eagle I.O consultants match interested mentors and mentees
+    + This is done prior to orientation
+3) Matches are introduced before orientation by email and discuss future events (see Chapter \@ref(timeline)) 
 4) The program is monitored periodically (see Chapter \@ref(Eagle) "Eagle I.O Responsibilities")
 
 ## Responsibility Calendar (Fall 2019) {#fall19}
