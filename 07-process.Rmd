@@ -44,10 +44,6 @@ rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
 
 setday <- cal(9,2020)                               ## September
 
-setday(2)
-text(0.5,0.5, "Alumni\nPanel")
-rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
-
 setday(7)
 text(0.5,0.5, "Labor Day\nNo Class")
 
@@ -55,22 +51,19 @@ setday(28)
 text(0.5,0.5, "Mentor and\nMentee\nCheck-In")
 rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
 
-setday(21)
-text(0.5,0.5, "Workshop:\nPresenting\nBest Self")
-rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
 
 setday <- cal(10,2020)                               ## October
+
+setday(1)
+text(0.5,0.5, "Workshop:\nPresenting\nBest Self")
+rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
 
 setday(14)
 text(0.5,0.5, "Univ Day\nNo Class")
 
-setday(21)
+setday(22)
 text(0.5,0.5, "Speaker:\nDoug Klein")
 rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
-
-setday(10)
-text(0.5,0.5, "Metro")
-rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
 
 setday(26)
 text(0.5,0.5, "Mentor and\nMentee\nCheck-In")
@@ -93,7 +86,7 @@ text(0.5,0.5, "Thanksgiving\nBreak")
 setday(30)
 text(0.5,0.5, "All Classes\nRemote")
 
-setday(11)
+setday(12)
 text(0.5,0.5, "Workshop:\nNetowrking")
 rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
 
