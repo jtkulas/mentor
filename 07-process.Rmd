@@ -1,6 +1,8 @@
 
 # Program Roll-Out {#procedure}
 
+![](images\manage.jpg)
+
 This page primarily serves as a procedural overview, so future Eagle I.O cohorts can implement and manage the Mentorship program.
 
 Procedurally, Eagle I.O members:
