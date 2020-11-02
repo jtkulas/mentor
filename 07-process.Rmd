@@ -107,7 +107,7 @@ text(0.5,0.5, "Last Day\nof Classes")
 
 ```
 
-## Responsibility Calendar (Spring 2019) {#spring20}
+## Responsibility Calendar (Spring 2021) {#spring20}
 
 ```{r Spring2021, echo=FALSE, warning=FALSE}
 
