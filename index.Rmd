@@ -1,6 +1,6 @@
 --- 
-title: "MSU I-O Student Mentorship Program User Manual"
-author: "Eagle I-O"
+title: "MSU I.O Student Mentorship Program User Manual"
+author: "Eagle I.O"
 date: "Most recent update `r Sys.Date()`"
 site: bookdown::bookdown_site
 bookdown::gitbook:

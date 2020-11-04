@@ -1,6 +1,10 @@
 # Individual Development Plan {#sdp}
 
-This form should be completed early Fall semester in mutual collaboration (see instructions to print this page below).
+![](images\idp.png)
+
+This form will be completed at a manditory mid-Fall semester checkin and in mutual collaboration between the mentor and mentee. 
+
+In the event that the event cannot be held in person, mentor and mentee pairings will be required to meet virtually (see instructions to print this page below).
 
 Mentee Top 3 Strengths:
 

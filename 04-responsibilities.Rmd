@@ -1,5 +1,7 @@
 # Responsibilities 
 
+![](images\responsibility.jpg)
+
 The key to success for students is to commit time and effort toward developing their future careers by taking full advantage of this unique opportunity.  Mentees should supply their mentor with feedback and be open to receiving advice and coaching from the mentor.
 
 ## Mentee Expectations
@@ -7,12 +9,15 @@ The key to success for students is to commit time and effort toward developing t
 * Be accountable for upholding commitment to the mentorship program
 * Determine your goals and discuss these with your mentor
 * Attend at least one activity each semester (see Chapter \@ref(timeline) for a calendar of events) 
+* Attend at least one networking event per semeter
 * Ask for help and guidance; seek out the information needed for your career development
 * Communicate any academic concerns that you might want assistance working through 
 * Accept both praise and constructive criticism
 * Determine acceptable time and format to communicate
+* Uphold Montclair State University's [Academic Honesty and Integrity Policy](https://www.montclair.edu/policies/all-policies/academic-honesty-and-integrity/)
 
-*If you wish to opt out of the mentoring program*, please contact our [program director](mailto:sessav@montclair.edu).
+
+*If you wish to opt out of the mentoring program*, please contact our [program director](mailto:simonetd@montclair.edu).
 
 
 ## Mentor Expectations  
@@ -20,14 +25,15 @@ The key to success for students is to commit time and effort toward developing t
 Mentors take a leadership role within the Mentorship program, they are meant to provide guidance and support to incoming members of the Industrial and Organizational Psychology program.^[Mentors participate in the program willingly, but once they commit to participating in the program they need to stay on board for the remainder of the semester unless there is an emergent situation. If mentors plan on leaving the program they need to communicate this to  Eagle I.O as soon as possible so that arrangements can be made for the following semester.] 
 
 * Attend MSU I.O Program orientation (see Chapter \@ref(timeline))
-* Work with the mentee in developing an Individual Development Plan (IDP; Chapter \@ref(sdp))) using:
+* Work with the mentee in developing an Individual Development Plan (IDP; Chapter \@ref(sdp)) using:
     + Goal setting ([Utilize goal setting theories](https://piximus.net/media/12860/funny-demotivational-posters-86-28.jpg)): help mentee set goals for the semester; academic, personal, professional, and social.
     + Motivational theory ([Utilize Motivation theories](https://youtu.be/cgg9byUy-V4))
+* Mentors must attend at least one networking event per semester
 * Stay accessible, committed, and engaged during the length of the program  
 * Setting and agreeing on frequency of meeting times according to needs/wants/availability
     + In-person meet-ups
     + Over the phone "meet-ups"
-    + Being accessible to mentee when help is needed, and encourage mentee to attend office hours when they need help when the mentor is not available.
+    + Being accessible to mentee when help is needed, and encourage mentee to attend office hours when they need help and the mentor is not available.
 * Addressing boundaries related to academic support  
     + Time frame to request and provide help such as hours and days available
     + Boundaries regarding personal information provided (cell number, personal email, etc)
@@ -38,14 +44,15 @@ Mentors take a leadership role within the Mentorship program, they are meant to 
 * Cultivate professionalism  
     + Mentor should help mentee search and prepare for internship opportunities (if needed by mentee)
     + Mentors should model professional behavior to set the example for mentees 
+* Uphold Montclair State University's [Academic Honesty and Integrity Policy](https://www.montclair.edu/policies/all-policies/academic-honesty-and-integrity/)
 * If mentor has any questions or concerns that may arise, let Eagle I.O know to be able to provide support and guidance.  
-    + *If you have any issues*, please contact [Eagle IO](mailto:info@eagleio.org).
+    + *If you have any issues*, please contact [Eagle IO](mailto:eagleio@montclair.edu).
 
 ## Eagle I.O Roles and Responsibilities {#Eagle}
 
 * Ensure the mentoring program is created and sustained (see Chapter \@ref(procedure) for outline)
     + Focus on succession planning within the group
 * Populate the calendar of Industrial-Organizational Psychology program related events ([METRO](http://www.metroapppsych.com/), [SIOP](http://www.siop.org/), see Chapters \@ref(fall19) and \@ref(spring20))  
-* Plan New Student Orientation procedures, events and necessary materials  
-* Meet regularly to discuss progress, concerns, or setbacks regarding the mentors, mentees and the program itself 
+* Plan New Student Orientation procedures, events, and necessary materials  
+* Meet regularly to discuss progress, concerns, or setbacks regarding the mentors, mentees, and the program, itself 
 * Utilize and update existing toolkit 
