@@ -14,7 +14,6 @@ Procedurally, Eagle I.O members:
         * [To First Year Mentees](https://drive.google.com/open?id=1BWLyBbBIcMEBeRxTNhBaLzbWkEPXThcO44qSh4HwTpw)  
         * [First Two Events](https://docs.google.com/document/d/1o_W0KReXqGGoR6jn1zabX6syhJ2sNjMZH8RPBwtfbnI/edit?usp=sharing)
         * [Alumni Recruitment](https://docs.google.com/document/d/1pGMk17GrXaWcjsuM3HTSouYSGxK_JAm5UVDu6EI7lI0/edit)
-
 2) Eagle I.O consultants match interested mentors and mentees
     + This is done prior to orientation
 3) Matches are introduced before orientation by email and discuss future events (see Chapter \@ref(timeline)) 
