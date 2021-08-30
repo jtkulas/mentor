@@ -2,14 +2,15 @@
 
 ![](images\calendar.png)
 
-## 2020-2021 Academic Year  {#fall19}
+## 2021-2022 Academic Year  {#fall19}
 
 ```{r echo=FALSE, warning=FALSE, results='asis', message=FALSE}
 library(tidyverse)
 library(knitr)
 library(kableExtra)
 
-events <- read.csv("events1920.csv")
+# events <- read.csv("events1920.csv")
+events <- read.csv("events2122.csv")
 
 kable(events)
 

@@ -20,7 +20,7 @@ Procedurally, Eagle I.O members:
 3) Matches are introduced before orientation by email and discuss future events (see Chapter \@ref(timeline)) 
 4) The program is monitored periodically (see Chapter \@ref(Eagle) "Eagle I.O Responsibilities")
 
-## Responsibility Calendar (Fall 2020) {#fall20}
+## Responsibility Calendar (Fall 2021) {#fall20}
 
 ```{r Fall2020, echo=FALSE, warning=FALSE}
 
@@ -33,89 +33,162 @@ library(TeachingDemos)
 ## Colors in 8 digit hex: https://www.quackit.com/css/color/values/css_hex_color_notation_8_digits.cfm
 
 
-setday <- cal(8,2020)                               ## August events
-setday(21)
-text(0.5,0.5, "Orientation")
-rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
+setday <- cal(8,2021)                               ## August events
+setday(30)
+rect(-0.04,-0.04,1.04,1.04, col="#0099FF")  ## internal blue
+text(0.5,0.5, "Orientation\n&\nSocial")
 
-setday(25)
+
+
+setday <- cal(9,2021)                               ## September
+
+setday(2)
 text(0.5,0.5, "First Day\nof Class")
 
-setday(29)
-text(0.5,0.5, "Tropical\nGet Together")
-rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
-
-setday <- cal(9,2020)                               ## September
-
-setday(7)
-text(0.5,0.5, "Labor Day\nNo Class")
-
-setday(28)
-text(0.5,0.5, "Mentor and\nMentee\nCheck-In")
-rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
-
-
-setday <- cal(10,2020)                               ## October
-
-setday(1)
-text(0.5,0.5, "Workshop:\nPresenting\nBest Self")
+setday(6)
 rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
-
-setday(14)
-text(0.5,0.5, "Univ Day\nNo Class")
-
-setday(22)
-text(0.5,0.5, "Speaker:\nDoug Klein")
-rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
-
-setday(26)
-text(0.5,0.5, "Mentor and\nMentee\nCheck-In")
-rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
-
-setday <- cal(11,2020)                               ## November
-
-setday(26)
-text(0.5,0.5, "Thanksgiving\nBreak")
+text(0.5,0.5, "No Classes!")
 
 setday(27)
-text(0.5,0.5, "Thanksgiving\nBreak")
-
-setday(28)
-text(0.5,0.5, "Thanksgiving\nBreak")
-
-setday(29)
-text(0.5,0.5, "Thanksgiving\nBreak")
+rect(-0.04,-0.04,1.04,1.04, col="#0099FF")
+text(0.5,0.5, "Mentor-Mentee\nCheck-in")
 
 setday(30)
-text(0.5,0.5, "All Classes\nRemote")
+rect(-0.04,-0.04,1.04,1.04, col="#FFFF99")
+text(0.5,0.5, "SIOP\nConsortium")
 
-setday(12)
-text(0.5,0.5, "Workshop:\nNetowrking")
-rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
 
-setday(23)
-text(0.5,0.5, "Mentor and\nMentee\nCheck-In")
-rect(-0.04,-0.04,1.04,1.04, col="#32CD3244")
 
-setday <- cal(12,2020)                               ## December
+setday <- cal(10,2021)                               ## October
+
+setday(1)
+rect(-0.04,-0.04,1.04,1.04, col="#FFFF99")
+text(0.5,0.5, "SIOP\nConsortium")
+
+setday(2)
+rect(-0.04,-0.04,1.04,1.04, col="#FFFF99")
+text(0.5,0.5, "SIOP\nConsortium")
+
+setday(7)
+rect(-0.04,-0.04,1.04,1.04, col="#FFFF99")
+text(0.5,0.5, "SIOP\nConsortium")
 
 setday(8)
-text(0.5,0.5, "Monday\nClasses")
+rect(-0.04,-0.04,1.04,1.04, col="#FFFF99")
+text(0.5,0.5, "SIOP\nConsortium")
 
-setday(14)
+setday(9)
+rect(-0.04,-0.04,1.04,1.04, col="#FFFF99")
+text(0.5,0.5, "SIOP\nConsortium")
+
+setday(22)
+rect(-0.04,-0.04,1.04,1.04, col="#0099FF")
+text(0.5,0.5, "Mentor-Mentee\nCheck-in")
+
+setday(24)
+rect(-0.04,-0.04,1.04,1.04, col="#FFFF99")
+text(0.5,0.5, "ILA\nLeadership")
+
+setday(25)
+rect(-0.04,-0.04,1.04,1.04, col="#FFFF00")
+text(0.5,0.5, "ILA Leadership\n & SHRM")
+
+setday(26)
+rect(-0.04,-0.04,1.04,1.04, col="#FFFF99")
+text(0.5,0.5, "SHRM")
+
+setday(27)
+rect(-0.04,-0.04,1.04,1.04, col="#FFFF99")
+text(0.5,0.5, "SHRM")
+
+setday <- cal(11,2021)                               ## November
+
+setday(22)
+rect(-0.04,-0.04,1.04,1.04, col="#0099FF")
+text(0.5,0.5, "Mentor-Mentee\nCheck-in")
+
+setday(25)
+rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
+text(0.5,0.5, "Thanskgiving\nBreak")
+
+setday(26)
+rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
+text(0.5,0.5, "Thanksgiving\nBreak")
+
+setday <- cal(12,2021)                               ## December
+
+setday(20)
 text(0.5,0.5, "Last Day\nof Classes")
 
 
 ```
 
-## Responsibility Calendar (Spring 2021) {#spring20}
+## Responsibility Calendar (Spring 2022) {#spring20}
 
 ```{r Spring2021, echo=FALSE, warning=FALSE}
 
-cal(1,2021)
-cal(2,2021)
-cal(3,2021)
-cal(4,2021)
-cal(5,2021)
+setday <- cal(1,2022)                       ## January
+
+setday(18)                                  
+text(0.5,0.5, "First Day\nof Classes")
+
+setday(26)
+rect(-0.04,-0.04,1.04,1.04, col="#0099FF")
+text(0.5,0.5, "Mentor-Mentee\nCheck-in")
+
+setday <- cal(2,2022)                       ## February
+
+setday(25)
+rect(-0.04,-0.04,1.04,1.04, col="#0099FF")
+text(0.5,0.5, "Mentor-Mentee\nCheck-in")
+
+setday <- cal(3,2022)                       ## March
+
+setday(7)
+rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
+text(0.5,0.5, "Spring\nBreak")
+
+setday(8)
+rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
+text(0.5,0.5, "Spring\nBreak")
+
+setday(9)
+rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
+text(0.5,0.5, "Spring\nBreak")
+
+setday(10)
+rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
+text(0.5,0.5, "Spring\nBreak")
+
+setday(11)
+rect(-0.04,-0.04,1.04,1.04, col="#ff000066")
+text(0.5,0.5, "Spring\nBreak")
+
+setday(25)
+rect(-0.04,-0.04,1.04,1.04, col="#0099FF")
+text(0.5,0.5, "Mentor-Mentee\nCheck-in")
+
+setday <- cal(4,2022)                       ## April
+
+setday(28)
+rect(-0.04,-0.04,1.04,1.04, col="#FF33FF")
+text(0.5,0.5, "SIOP!!")
+
+setday(29)
+rect(-0.04,-0.04,1.04,1.04, col="#FF33FF")
+text(0.5,0.5, "SIOP!!")
+
+setday(30)
+rect(-0.04,-0.04,1.04,1.04, col="#FF33FF")
+text(0.5,0.5, "SIOP!!")
+
+setday <- cal(5,2022)                       ## May
+
+setday(12)
+text(0.5,0.5, "Last Day\nof Classes")
+
+setday(26)
+rect(-0.04,-0.04,1.04,1.04, col="#0099FF")
+text(0.5,0.5, "Mentor-Mentee\nCheck-in")
 
 ```
