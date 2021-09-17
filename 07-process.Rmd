@@ -39,7 +39,6 @@ rect(-0.04,-0.04,1.04,1.04, col="#0099FF")  ## internal blue
 text(0.5,0.5, "Orientation\n&\nSocial")
 
 
-
 setday <- cal(9,2021)                               ## September
 
 setday(2)
@@ -119,7 +118,6 @@ setday <- cal(12,2021)                               ## December
 
 setday(20)
 text(0.5,0.5, "Last Day\nof Classes")
-
 
 ```
 
